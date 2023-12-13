@@ -85,6 +85,7 @@ public class Teleport_modi : MonoBehaviour
             linerenderer.enabled = false;
         }
         teleportationProvider.QueueTeleportRequest(request);
+        Turnoff_Teleport();
 
     }
 
