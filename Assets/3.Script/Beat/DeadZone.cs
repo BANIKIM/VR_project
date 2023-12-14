@@ -16,7 +16,7 @@ public class DeadZone : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Cube"))
         {
-            Destroy(other.gameObject);
+            other.gameObject.SetActive(false);
         }
     }
 }

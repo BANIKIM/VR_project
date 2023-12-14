@@ -660,7 +660,7 @@ MonoBehaviour:
   - {fileID: 261720757382122360, guid: 230520a35779b1941b25a47b1e091390, type: 3}
   - {fileID: 7326834994007414387, guid: 4062a56f63ccc454987ae02e1477ca38, type: 3}
   Point: []
-  bpm: 128
+  bpm: 95
   Timmer: 0
 --- !u!1 &1039850455
 GameObject:
