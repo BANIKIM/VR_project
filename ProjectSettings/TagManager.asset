@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Right_Hand
+  - Left_Hand
+  - Cube
   layers:
   - Default
   - TransparentFX
